@@ -36,7 +36,8 @@ function screenChooser() {
 
 const botonState = document.querySelector(".botonCarrito");
 botonState.addEventListener("click", screenChooser);
-
+const botonBack = document.querySelector(".botonBack");
+botonBack.addEventListener("click", screenChooser);
 
 function addToBasket() {
 
