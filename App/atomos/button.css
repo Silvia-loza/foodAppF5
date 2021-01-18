@@ -1,0 +1,39 @@
+.botonCantidad {
+    background-color: white;
+    border: none;
+    font-size: 18px;
+    padding: 10px;
+}
+
+.botonEnviarPedido {
+    background-color: white;
+    border: none;
+    font-weight: bold;
+    border-radius: 6px;
+    padding: 3% 20%;
+    margin: 2%
+}
+
+.botonBack {
+    border: none;
+    font-weight: bold;
+    border-radius: 6px;
+    padding: 5px 10px 5px 10px;
+    background: var(--medium-grey);
+    margin: 3%;
+}
+
+.botonCarrito {
+    background-color: var(--main-orange);
+    border-radius: 50%;
+    border: none;
+    padding: 1%;
+    box-shadow: 0px 10px 10px 0px grey;
+    margin-top: 1%;
+    margin-left: 1%;
+}
+
+.botonCarritoImg {
+    height: 50px;
+    weight: 40px;
+}

@@ -1,0 +1,32 @@
+.botonCantidad {
+    color: grey;
+    background-color: white;
+    border: none;
+    font-size: 18px;
+    padding: 10px;
+}
+
+.botonEnviarPedido {
+    background-color: white;
+    border: none;
+    font-weight: bold;
+    border-radius: 6px;
+    padding: 10px 4% 10px 4%
+}
+
+.botonBack {
+    border: none;
+    font-weight: bold;
+    border-radius: 6px;
+    padding: 5px 10px 5px 10px
+}
+
+.botonCarrito {
+    background-color: var(--main-orange);
+    border-radius: 50%;
+    border: none;
+    padding: 1%;
+    box-shadow: 0px 10px 10px 0px grey;
+    margin-top: 1%;
+    margin-left: 1%;
+}
